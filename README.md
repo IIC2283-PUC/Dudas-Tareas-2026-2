@@ -202,32 +202,6 @@ En esos casos la corrección no compara contra un output exacto, sino que valida
 con un verificador propio. Basta con que tu respuesta sea válida según el enunciado.
 </details>
 
-### Repositorio
-
-<details>
-<summary><b>Me inscribí pero no me llegó la invitación</b></summary>
-
-Revisa el spam del correo asociado a tu cuenta de GitHub. También puedes abrirla directo en:
-
-```
-https://github.com/IIC2283-PUC/2026-2-t1-TU_USUARIO/invitations
-```
-</details>
-
-<details>
-<summary><b>Mi issue de inscripción quedó marcado con <code>revisar</code> o <code>error</code></b></summary>
-
-Lee el comentario del bot: en general es un número de alumno mal escrito o ya usado por otra
-cuenta. Corrige **editando el mismo issue** y el bot lo reintenta solo. Si dice `error`, es
-un problema nuestro y ya quedamos notificados.
-</details>
-
-<details>
-<summary><b>Me inscribí con la cuenta equivocada</b></summary>
-
-Escribe un correo al ayudante de tareas para que lo corrijamos.
-</details>
-
 ---
 
 ## Tips
